@@ -1,0 +1,24 @@
+name: COKY Project CI
+
+on: 
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v2
+    
+    # Ajoutez des étapes spécifiques selon vos besoins
+    # Par exemple, pour un projet Unity
+    - name: Unity Build
+      uses: game-ci/unity-builder@v2
+      
+    # Tests
+    - name: Run Tests
+      run: |
+        # Commandes de test
