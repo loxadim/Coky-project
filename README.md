@@ -5,7 +5,6 @@ Vision du Projet
 
 COKY est un projet open source révolutionnaire visant à transformer l'apprentissage en une aventure immersive et éducative. Notre objectif : créer un metaverse éducatif qui permet aux joueurs de devenir le **Supra Intellect** capable de résoudre les défis globaux.
 
-![Logo COKY](logo-placeholder.png)
 
 Contexte
 
