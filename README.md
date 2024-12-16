@@ -6,6 +6,25 @@ Vision du Projet
 COKY est un projet open source révolutionnaire visant à transformer l'apprentissage en une aventure immersive et éducative. Notre objectif: créer un metaverse éducatif qui permet aux joueurs de devenir le Supra Intellect capable de résoudre les défis globaux.
 
 
+Dans un monde en proie à une crise sans précédent, seul un individu possédant une connaissance approfondie de tous les domaines peut espérer sauver l'humanité : le Supra Intellect. Coky est un metaverse, c' est un jeu de plateforme immersif et virtuel dans lequel les joueurs doivent se former et s'éduquer afin de devenir le prochain Supra Intellect et sauver le monde.
+
+Au fil de leur progression dans le jeu, les joueurs devront réussir au moins cinq niveaux de formation de base, tels que les sciences de la vie et de la terre, les sciences physiques et mathématiques, le développement personnel, etc. Ils pourront également choisir des spécialisations avancées dans des domaines tels que la biologie moléculaire, l'astrophysique, le développement personnel avancé, etc. À chaque niveau de formation, les joueurs rencontreront de grands penseurs et scientifiques célèbres qui agiront en tant que mentors et formateurs pour les aider à atteindre leur objectif.
+
+Le gameplay de Coky se déroule principalement dans un environnement virtuel et immersif, dans lequel les joueurs doivent apprendre de nouvelles connaissances et les mettre en pratique pour progresser dans le jeu. Cela peut se faire à travers des mini-jeux et des quizz, des épreuves de mémorisation et de compréhension, ainsi que des défis et des activités créatives.
+
+le joueur doit acquérir toutes les connaissances nécessaires pour prétendre au titre de supra intellect pour créer un super programme pour sauver le monde.
+
+
+Un nouveau mentor virtuel accompagne le joueur à chaque niveau de formation. Ils répondent aux questions des joueurs, leur donnent des conseils personnalisés, ou les aident à résoudre des problèmes.
+L'environnement change en fonction du niveau de formation et du mentor choisi.
+Par exemple, lorsqu'un joueur travaille avec Cheikh Anta Diop comme mentor, l’environnement sera dans des fouilles archéologiques ou dans les pyramides d'Égypte ou encore dans un laboratoire de datation carbone 14.
+À chaque fin de chapitre (chaque niveau de formation est divisé en plusieurs chapitres), le joueur gagne des tokens qui peuvent être utilisés pour acheter des des extras, livres et d'autres supports de documentation, ainsi que des services de mentoring...
+À la fin de chaque niveau de formation, le joueur reçoit un diplôme enregistré sur une blockchain sous la forme d'un NFT (Non-Fongible Token). Ce diplôme est la preuve de la réussite du joueur dans le jeu. 
+La progression du joueur vers les niveaux de formation supérieurs dépend de son nombre de points et de token de  connaissances obtenus grâce aux tests et aux examens de chaque niveau. Ces Token peuvent être utilisés pour acheter des bonus et des avantages dans le jeu.
+Les NFT dans le jeux peuvent être vendu ou échangé contre d’autre NFT
+Les NFT pourraient être utilisés pour débloquer du contenu exclusif
+
+
 **Contexte**
 
 Dans un monde confronté à des défis existentiels complexes, COKY propose une approche innovante : transformer l'éducation en un jeu vidéo captivant où l'apprentissage devient une quête épique.
